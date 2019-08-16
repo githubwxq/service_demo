@@ -33,7 +33,7 @@ public class FileController {
 	
 	
 	
-    	private static final String filePath = "/Users/jack/Desktop/person/springboot/xdclass_springboot/src/main/resources/static/images/";
+    	private static final String filePath = "E:/service_demo/src/main/resources/static/images";
    
 	
 	 	@RequestMapping(value = "upload")

@@ -20,7 +20,7 @@ public class OtherHttpController {
 	
 	/**
 	 * 功能描述：测试PostMapping
-	 * @param accessToken
+	 * @param
 	 * @param id
 	 * @return
 	 */

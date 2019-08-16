@@ -16,7 +16,7 @@ public class User {
 	private String pwd;
 	
 	@JsonProperty("account")
-	@JsonInclude(Include.NON_NULL)
+//	@JsonInclude(Include.NON_NULL)
 	private String phone;
 	
 	@JsonFormat(pattern="yyyy-MM-dd hh:mm:ss",locale="zh",timezone="GMT+8")
